@@ -1,0 +1,15 @@
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\bin\Debug\net6.0\DesafiadosOperacionais.exe
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\bin\Debug\net6.0\DesafiadosOperacionais.deps.json
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\bin\Debug\net6.0\DesafiadosOperacionais.runtimeconfig.json
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\bin\Debug\net6.0\DesafiadosOperacionais.dll
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\bin\Debug\net6.0\DesafiadosOperacionais.pdb
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\DesafiadosOperacionais.csproj.AssemblyReference.cache
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\DesafiadosOperacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\DesafiadosOperacionais.AssemblyInfoInputs.cache
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\DesafiadosOperacionais.AssemblyInfo.cs
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\DesafiadosOperacionais.csproj.CoreCompileInputs.cache
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\DesafiadosOperacionais.dll
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\refint\DesafiadosOperacionais.dll
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\DesafiadosOperacionais.pdb
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\DesafiadosOperacionais.genruntimeconfig.cache
+C:\dev\git\DesafiadosOperacionais\DesafiadosOperacionais\obj\Debug\net6.0\ref\DesafiadosOperacionais.dll
